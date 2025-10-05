@@ -1,2 +1,12 @@
 # ProjectTwo_GradeReceived-88
 Parallel vs Serial Algorithms in Java using Threads
+
+
+# About
+
+Serial code was supplied "/ParallelAssignment2023" and was tasked to parallelise the code to obtain a shorter run-time while keeping the functionality the same.
+I applied two approaches, one with traditional parallelism using Java's ForkJoinPool and my own approach using 4 distinct groups of threads.
+
+# Grade
+
+![alt text](https://github.com/IJM217/ProjectTwo_GradeReceived-88/blob/main/grade.png?raw=true)
