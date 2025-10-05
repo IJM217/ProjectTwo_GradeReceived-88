@@ -11,7 +11,7 @@ I applied two approaches, one with traditional parallelism "/Parallel Traditiona
 Reccomended to use IntelliJ IDEA to run for Simplicity 
 
 ### Parameters:
-rows  columns  x-minimun  x-maximum  y-minimum  y-maximum  search-density
+rows     columns    x-minimun     x-maximum     y-minimum     y-maximum     search-density
 
 e.g.
 ```
