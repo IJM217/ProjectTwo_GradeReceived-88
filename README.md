@@ -9,4 +9,4 @@ I applied two approaches, one with traditional parallelism using Java's ForkJoin
 
 # Grade
 
-![alt text](https://github.com/IJM217/ProjectTwo_GradeReceived-88/blob/main/grade.png?raw=true)
+![alt text](https://github.com/IJM217/ProjectTwo_GradeReceived-88/blob/main/grades.png?raw=true)
